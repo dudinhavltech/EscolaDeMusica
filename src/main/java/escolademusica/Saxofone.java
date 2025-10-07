@@ -23,4 +23,9 @@ public void tocar(){
 }
 
 @Override
+public void afinar(){    
+    super.afinar();
+    System.out.println("ajustando á enmbocadura e as c haves do saxofone.");
 }
+}
+
